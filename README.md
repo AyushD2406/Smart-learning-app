@@ -123,32 +123,32 @@ python app.py
 
 smart-learning-app/
 │
-├── app/                         # Core application logic
-│   ├── app.py                   # Main entry point
-│   ├── add_notes.py             # Notes management
-│   ├── notes_dashboard.py       # Dashboard UI
+├── app/                         
+│   ├── app.py                   
+│   ├── add_notes.py             
+│   ├── notes_dashboard.py       
 │
-├── data/                        # Excel datasets / study materials
+├── data/                        
 │   ├── Complete_Study_Materials_FINAL.xlsx
 │   ├── Complete_Study_Materials_WITH_CLASS_1_10.xlsx
 │   ├── Past_Papers_ALL_BOARDS_COMPLETE.xlsx
 │   ├── Past_Papers_COMPLETE_ALL_CLASSES_STREAM.xlsx
 │   ├── Past_Papers_UPDATED.xlsx
 │
-├── docs/                        # Documentation
+├── docs/                        
 │   └── user_guide.pdf
 │
-├── Research Paper/              # Academic references
+├── Research Paper/              
 │   ├── research_paper.pdf
 │   └── references/
 │       ├── ref1.pdf
 │       ├── ref2.pdf
 │
-├── assets/                      # Images (if added later)
+├── assets/                     
 │
-├── requirements.txt             # Dependencies
-├── .gitignore                   # Ignore unnecessary files
-├── README.md                   # Project documentation
+├── requirements.txt            
+├── .gitignore                  
+├── README.md                  
 
 ---
 
