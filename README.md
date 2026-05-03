@@ -1,4 +1,3 @@
-<img width="1019" height="533" alt="Dashboard" src="https://github.com/user-attachments/assets/9ce43269-e195-4ce7-a602-1d779946149b" />
 # 🎓 Smart Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
