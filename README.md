@@ -152,12 +152,11 @@ Smart_Learning_project/
 
 (Add images here)
 
-```
 Assets/Dashboard.jpeg
 Assets/Notes.jpeg
 Assets/Schedule.jpeg
 Assets/Video.jpeg
-```
+
 
 ---
 
