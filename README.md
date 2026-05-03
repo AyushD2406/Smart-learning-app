@@ -1,3 +1,4 @@
+<img width="1019" height="533" alt="Dashboard" src="https://github.com/user-attachments/assets/9ce43269-e195-4ce7-a602-1d779946149b" />
 # 🎓 Smart Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -152,10 +153,10 @@ Smart_Learning_project/
 
 (Add images here)
 
-Assets/Dashboard.jpeg
-Assets/Notes.jpeg
-Assets/Schedule.jpeg
-Assets/Video.jpeg
+<img width="1019" height="533" alt="Dashboard" src="https://github.com/user-attachments/assets/e382d7e9-2cf6-4a02-b6b9-ab27cb4ca7c7" />
+<img width="969" height="527" alt="Schedule" src="https://github.com/user-attachments/assets/7c77fff1-66ea-45c0-bbcb-c1e276e710d9" />
+<img width="1012" height="586" alt="Video" src="https://github.com/user-attachments/assets/2c123e16-cf07-4f2f-b324-284dc58fd16a" />
+<img width="505" height="417" alt="Notes" src="https://github.com/user-attachments/assets/14100d81-3afc-405b-92e1-bb940fced98e" />Assets/Video.jpeg
 
 
 ---
