@@ -122,46 +122,40 @@ python app.py
 ## 📂 Project Structure
 ```
 smart-learning-app/
-├── src/
-│   ├── __init__.py
-│   ├── main.py                 # renamed from app.py
-│   ├── ui/
-│   │   ├── __init__.py
-│   │   ├── main_window.py      # main UI components
-│   │   ├── dashboard.py        # notes dashboard
-│   │   └── styles.py           # shared UI constants
-│   ├── modules/
-│   │   ├── __init__.py
-│   │   ├── notes_manager.py    # add_notes.py functionality
-│   │   ├── video_manager.py    # video.py functionality
-│   │   ├── past_papers.py      # existing past_papers.py
-│   │   └── schedule.py         # existing schedule.py
-│   └── utils/
-│       ├── __init__.py
-│       ├── file_handler.py     # file operations
-│       └── config.py           # configuration settings
-├── data/
-│   ├── datasets/
-│   │   ├── Complete_Study_Materials_FINAL.xlsx
-│   │   ├── Past_Papers_UPDATED.xlsx
-│   │   └── other_excel_files.xlsx
-│   └── user_data/
-│       ├── schedule.json
-│       ├── timer_state.json
-│       └── saved_links.txt
-├── assets/
-│   ├── icons/
-│   └── fonts/
-├── tests/
-│   ├── __init__.py
-│   └── test_modules/
-├── docs/
-│   ├── README.md
-│   ├── requirements.txt
-│   └── user_guide.md
-├── .venv/
-├── .gitignore
-└── requirements.txt                
+│
+├── app/                         # Core application logic
+│   ├── app.py                   # Main entry point
+│   ├── add_notes.py             # Notes management
+│   ├── notes_dashboard.py       # Dashboard UI
+│   ├── past_papers.py           # Past papers
+│   ├── video.py                 # Video features
+│   ├── schedule.py              # Schedule management  
+│
+├── data/                        # Excel datasets / study materials
+│   ├── Complete_Study_Materials_FINAL.xlsx
+│   ├── Complete_Study_Materials_WITH_CLASS_1_10.xlsx
+│   ├── Past_Papers_ALL_BOARDS_COMPLETE.xlsx
+│   ├── Past_Papers_COMPLETE_ALL_CLASSES_STREAM.xlsx
+│   ├── Past_Papers_UPDATED.xlsx
+│
+├── docs/                        # Documentation
+│   └── user_guide.pdf
+│
+├── Research Paper/              # Academic references
+│   ├── modified_report.pdf
+│   ├── turnitin_report.pdf
+│   ├── research_paper-1.pdf
+│   ├── research_paper-2.pdf
+│   ├── research_paper-3.pdf
+│   ├── research_paper-4.pdf
+│   ├── research_paper-5.pdf
+│   └── references/
+│       ├── references.pdf
+│
+├── assets/                      # Images 
+│
+├── .gitignore                   # Ignore unnecessary files
+├── README.md                   # Project documentation               
 ```
 ---
 
