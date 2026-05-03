@@ -153,7 +153,7 @@ Smart_Learning_project/
 (Add images here)
 
 ```
-<img width="1019" height="533" alt="WhatsApp Image 2026-05-03 at 12 25 41" src="https://github.com/user-attachments/assets/5202b705-a619-4252-8fdf-cbb9618e90b9" />
+WhatsApp Image 2026-05-03 at 12.25.41.jpeg
 <img width="969" height="527" alt="WhatsApp Image 2026-05-03 at 12 25 42" src="https://github.com/user-attachments/assets/d34bf497-f636-498d-b0d0-d246fb4389d3" />
 <img width="1012" height="586" alt="WhatsApp Image 2026-05-03 at 12 25 42 (2)" src="https://github.com/user-attachments/assets/a264b761-ddb3-41c5-9ff8-c2a796f6ce99" />
 <img width="505" height="417" alt="WhatsApp Image 2026-05-03 at 12 25 43" src="https://github.com/user-attachments/assets/8affe0a4-cad7-44e5-b00e-ace7d1837ff4" />
