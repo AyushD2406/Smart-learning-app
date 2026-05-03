@@ -178,10 +178,10 @@ smart-learning-app/
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-Ayush & Vidhi
-
+Ayush - [GitHub Profile](https://github.com/AyushD2406)
+Vidhi - [GitHub Profile](https://github.com/)
 ---
 
 ## 📜 License
